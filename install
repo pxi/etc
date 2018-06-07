@@ -1,0 +1,4 @@
+#!/bin/bash
+shopt -s extglob
+FILES=$(cd ~/etc && ls -d !(README.md|install))
+echo "$FILES" | xargs -pI % ln -Ffs ~/etc/% ~/.%
