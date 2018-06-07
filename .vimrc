@@ -31,8 +31,6 @@ set smarttab
 set statusline=\ \%f%m%r%h%w\ ::\ %y\ [%{&ff}]\%=\ [%l/%L:%c]\ 
 set softtabstop=4
 set tabstop=4		" tabstop and shiftwidth should always share the same value
-set title			" set window title
-set titlestring=vim\ %t
 set wildmenu		" show menu on completion etc
 set winminheight=0
 set winminwidth=0
