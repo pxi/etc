@@ -1,3 +1,3 @@
-[submodule "/Users/pxi/.vim/pack/plugins/start/vim-go"]
-	path = /Users/pxi/.vim/pack/plugins/start/vim-go
+[submodule "vim/pack/plugins/start/vim-go"]
+	path = vim/pack/plugins/start/vim-go
 	url = https://github.com/fatih/vim-go.git
