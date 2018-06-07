@@ -1,0 +1,7 @@
+[credential]
+	helper = osxkeychain
+[user]
+	name = Pekka Heino
+	email = pxi@usr.fi
+[push]
+	default = current
