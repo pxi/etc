@@ -76,5 +76,6 @@ noremap L $
 " vim-go
 let g:go_fmt_command = "goimports"
 let g:go_doc_keywordprg_enabled = 0
+let g:go_template_autocreate = 0
 
 au FileType go nmap <Leader>gd <Plug>(go-doc)
