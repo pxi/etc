@@ -7,6 +7,7 @@ export EDITOR=vim
 export HOMEBREW_NO_ANALYTICS=1
 export PATH="./bin:$HOME/bin:$PATH"
 export PYTHONDONTWRITEBYTECODE=1
+export NO_COLOR=true
 export VAGRANT_DEFAULT_PROVIDER=vmware_fusion
 export VISUAL=vim
 
